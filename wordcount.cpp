@@ -1,4 +1,5 @@
-#include "stdafx.h"
+#include<stdio.h>
+#include<stdlib.h>
 
 int charCount(FILE *f);
 int wordCount(FILE *f);
